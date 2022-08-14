@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Practica_Dialogos</string>
+    <string name="txtb1">mostrar Toast</string>
+    <string name="txtb2">mostrar Toast Personalizado</string>
+    <string name="toastxt">Toast personalizado</string>
+    <string name="mostoast">Este es un toast perzonalidado</string>
+    <string name="txtb3">mostrar Diálogo</string>
+    <string name="txtb4">mostrar Diálogo Personalizado</string>
+    <string name="txtb5">Capturar Correo</string>
+    <string name="txtbienvenida">hola</string>
+    <string name="txtpositivo">Guardar</string>
+    <string name="txtnegativo">Cancelar</string>
+    <string name="hintcorreo">Correo electrónico</string>
+    <string name="ingmail">Escribe tu correo electrónico</string>
+
+
+</resources>
